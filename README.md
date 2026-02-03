@@ -148,6 +148,16 @@ done
 - Make sure Developer Mode is enabled
 - For iOS 17+, ensure tunnel is running
 
+## For AI Agents / LLMs
+
+See **[SKILL.md](SKILL.md)** for agent-optimized documentation including:
+- Quick command reference table
+- Common task patterns
+- JSON output format details
+- Error handling expectations
+
+This repo is designed to be easily understood by AI coding assistants.
+
 ## License
 
 MIT
