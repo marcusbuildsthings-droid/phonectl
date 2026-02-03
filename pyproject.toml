@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "phonectl"
+name = "iphonectl"
 version = "0.1.0"
 description = "Simple CLI for iOS device control - screenshots, apps, files, and more"
 readme = "README.md"

@@ -2,9 +2,13 @@
 
 Simple CLI for iOS device control. Take screenshots, manage apps, browse files, and more.
 
+[![PyPI version](https://badge.fury.io/py/iphonectl.svg)](https://pypi.org/project/iphonectl/)
+
 ```bash
-pip install phonectl
+pip install iphonectl
 ```
+
+> **Note:** The package is `iphonectl` on PyPI (since `phonectl` was taken), but the CLI command is still `phonectl`.
 
 ## Why?
 
@@ -89,8 +93,8 @@ All commands support:
 ## Installation
 
 ```bash
-# From PyPI
-pip install phonectl
+# From PyPI (package name is iphonectl, CLI command is phonectl)
+pip install iphonectl
 
 # From source
 git clone https://github.com/marcusbuildsthings-droid/phonectl
